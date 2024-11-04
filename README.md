@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-My I'm Denis and I'm Android-developer, specializing in Kotlin.
+I'm Denis and I'm Android-developer, specializing in Kotlin.
 
 ### 🛠
 - **Languages:** Kotlin, Java
