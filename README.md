@@ -11,4 +11,3 @@ My I'm Denis and I'm Android-developer, specializing in Kotlin.
 
 ### 🌐 Contacts:
 - [Telegram](https://t.me/nedmah_9)
-- [mail](9hamden@gmail.com)
