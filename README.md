@@ -11,3 +11,5 @@ I'm Denis and I'm Android-developer, specializing in Kotlin.
 
 ### 🌐 Contacts:
 - [Telegram](https://t.me/nedmah_9)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nedmah&theme=holi-theme&starting_year=2021)](https://git.io/streak-stats)
