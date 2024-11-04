@@ -1,4 +1,5 @@
-![Alt Text](https://imgflip.com/gif/98ws7d)
+![sweaty](https://github.com/user-attachments/assets/0eec7d39-c37b-4b1f-b647-78f9b0585ac8)
+
 ## Hi there 👋
 
 My I'm Denis and I'm Android-developer, specializing in Kotlin.
